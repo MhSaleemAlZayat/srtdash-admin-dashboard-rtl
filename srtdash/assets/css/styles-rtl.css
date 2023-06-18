@@ -2356,7 +2356,7 @@ table.dataTable thead td {
 
 .form-gp label {
     position: absolute;
-    left: 0;
+    right: 0;
     top: 0;
     color: #b3b2b2;
     -webkit-transition: all 0.3s ease 0s;
@@ -2393,7 +2393,7 @@ table.dataTable thead td {
 
 .form-gp i {
     position: absolute;
-    right: 5px;
+    left: 5px;
     color: #7e74ff;
     font-size: 16px;
 }
@@ -2429,16 +2429,16 @@ table.dataTable thead td {
 .submit-btn-area button:hover {
     background: #2c71da;
     color: #ffffff;
-}
+}   
 
 .submit-btn-area button i {
-    margin-left: 15px;
-    -webkit-transition: margin-left 0.3s ease 0s;
-    transition: margin-left 0.3s ease 0s;
+    margin-right: 15px;
+    -webkit-transition: margin-right 0.3s ease 0s;
+    transition: margin-right 0.3s ease 0s;
 }
 
 .submit-btn-area button:hover i {
-    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .login-other a {

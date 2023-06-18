@@ -3,7 +3,7 @@ Free admin dashboard template
 
 # Preview
 
-![SRTdash admin dashboard template preview](https://colorlib.com/wp/wp-content/uploads/sites/2/srtdash-html-free-admin-dashboard.jpg)
+![SRTdash admin dashboard template preview](https://github.com/MhSaleemAlZayat/srtdash-admin-dashboard-rtl/blob/master/documentation/img/srtdash-admin-dashboard-rtl.jpg?raw=true)
 
 # Overview
 SRTdash is a full-featured, multipurpose, premium bootstrap admin template built with Bootstrap 4 Framework, HTML5, CSS and JQuery.
